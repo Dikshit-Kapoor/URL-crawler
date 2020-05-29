@@ -4,12 +4,15 @@ This will help you to get all the links and their status code in a website by au
 ### Installing
 
 ```
-install selenium
+pip install selenium
 ```
 ```
-install requests
+pip install requests
 ```
 ```
-install pandas
+pip install pandas
 ```
+
+## Algorithm
+Divide and Conquer Algorithm
 
