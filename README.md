@@ -13,4 +13,3 @@ install requests
 install pandas
 ```
 
-![alt text](https://raw.githubusercontent.com/Dikshit-Kapoor/URL-crawler/branch/path/to/url.PNG)
