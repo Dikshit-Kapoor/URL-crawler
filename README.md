@@ -12,4 +12,4 @@ install requests
 ```
 install pandas
 ```
-![alt text](http://url/to/url1.png)
+![alt text](http://url/to/url.png)
