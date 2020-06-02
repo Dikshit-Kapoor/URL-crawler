@@ -2,16 +2,16 @@
 
 This will help you to get all the links and their status code in a website by automatically opening the website and storing all the links in a csv file.
 
-### Installing
+### Installation
 
 ```
-pip install selenium
+$ pip install selenium
 ```
 ```
-pip install requests
+$ pip install requests
 ```
 ```
-pip install pandas
+$ pip install pandas
 ```
 
 ## Algorithm
