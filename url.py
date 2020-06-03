@@ -1,5 +1,5 @@
 #This projects helps to get all the links present on a webpage by automatically opening it and gives a csv
-#with all the links and their status code.
+#with all the links and their respective status code.
 
 from selenium import  webdriver
 import requests
