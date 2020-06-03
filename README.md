@@ -15,5 +15,5 @@ $ pip install pandas
 ```
 
 ## Algorithm
-Divide and Conquer Algorithm
+Work on Divide and Conquer Algorithm.
 
